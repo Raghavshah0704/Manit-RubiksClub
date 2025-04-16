@@ -2,7 +2,7 @@
 
 Welcome to the official website of **RUBIK's Club**, a cultural and innovation-driven student club at **Maulana Azad National Institute of Technology (MANIT)**.
 
-This website showcases our club’s teams, events, members, and media gallery to provide a vibrant digital presence for all our creative and technical endeavors.
+This website showcases our club’s teams, events and media gallery to provide a vibrant digital presence for all our creative and technical endeavors.
 
 ---
 
